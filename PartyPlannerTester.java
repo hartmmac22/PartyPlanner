@@ -14,6 +14,8 @@ public class PartyPlannerTester {
 		e.printStackTrace();
 	}	
 	*/
+	
+	//this will be my tester class
 	PartyPlanner m1 = new PartyPlanner();
 	m1.People();
 }
